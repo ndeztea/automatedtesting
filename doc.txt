@@ -1,0 +1,3 @@
+Run Chrome driver
+
+java -jar selenium-server-standalone-<version>.jar -Dwebdriver.chrome.driver=/path/to/chromedriver.exe
